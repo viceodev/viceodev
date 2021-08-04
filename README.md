@@ -1,16 +1,25 @@
-# github-profile-summary-cards-example
+### Hi there 👋
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<!--
+**viceodev/viceodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+Here are some ideas to get you started:
 
-```To create your profile README you need to name the repo as your username```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+A big thank you for checking in.👍
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+My name is Okonkwo Victor fundly also known as 😁**Viceo**. I am a Full Stack Web Developer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs and architecture for clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 💻 As a Full Stack Developer, I am equipped with the necessary skills needed to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration, Graphic Designs (Adobe Photoshop) and 😊Good Communication skills.
+- 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, VueJs, WordPress.
+- 🙋‍♂️ I'm a keen and fast learner, ready to adapt to systems that bring value. 
+- 📲How to reach me: [Viceodev@gmail.com](mailto:viceodev@gmail.com), [LinkedIn](www.linkedin.com/in/victor-okonkwo-5467401a5), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1),Phone: (234)-0-8142077283.
