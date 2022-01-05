@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-My name is Okonkwo Victor fundly also known as 😁**Viceo**. I am a Full Stack Web Developer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs and architecture for clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
+My name is Okonkwo Victor fundly also known as 😁**Viceo**. I am a Software Developer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs, systems and architecture for clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
 
 - 💻 As a Full Stack Developer, I am equipped with the necessary skills needed to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration, Graphic Designs (Adobe Photoshop) and 😊Good Communication skills.
 - 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, VueJs, WordPress.
