@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-My name is Okonkwo Victor fundly also known as 😁**Viceo**. I am a Software Developer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs, systems and architecture for clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
+My name is Okonkwo Victor fundly also known as 😁**Viceodev**. I am an Engineer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs, systems and architecture for my clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
 
-- 💻 As a Full Stack Developer, I am equipped with the necessary skills needed to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration, Graphic Designs (Adobe Photoshop) and 😊Good Communication skills.
+- 💻 As a Full Stack Developer, I am equipped with the necessary skills needed to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration and 😊Good Communication skills.
 - 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, VueJs, WordPress.
+- 💻 As a Cybersecurity Enthusiast, I love to learn, grow and stretch systems to the limit.
 - 🙋‍♂️ I'm a keen and fast learner, ready to adapt to systems that bring value. 
-- 📲How to reach me: [Viceodev@gmail.com](mailto:viceodev@gmail.com), [LinkedIn](www.linkedin.com/in/victor-okonkwo-5467401a5), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1),Phone: (234)-0-8142077283.
+- 📲How to reach me: [Viceodev@gmail.com](mailto:viceodev@gmail.com), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1), [Twitter](https://twitter.com/viceodev),Phone: (234)-0-8142077283.
 
 
 ## More About Me
