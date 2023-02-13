@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-My name is Okonkwo Victor fundly also known as 😁**Viceodev**. I am an Engineer whose sole aim is to bring **value** to the world through my skills. I enjoy creating elegant designs, systems and architecture for my clients and teams. I have a good experience in collaborating with people to make sure I get them their desired outcome.
+My name is Okonkwo Victor Fundly, also known as 😁**Viceodev**. I am an engineer with a mission to add value to the world through my skills. I take pleasure in creating elegant designs, systems, and architectures for my clients and teams. I have a strong track record of working effectively with others to deliver desired outcomes.
 
 - 💻 As a Full Stack Developer, I am equipped with the necessary skills needed to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration and 😊Good Communication skills.
 - 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, VueJs, WordPress.
