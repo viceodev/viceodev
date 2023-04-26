@@ -23,7 +23,7 @@ My name is Okonkwo Victor Fundly known as 😁**Viceodev**. I am an engineer wit
 - 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, VueJs, WordPress.
 - 💻 As a Cybersecurity Enthusiast, I love to learn, grow and stretch systems to the limit.
 - 🙋‍♂️ I'm a keen and fast learner, ready to adapt to systems that bring value. 
-- 📲How to reach me: [hello@viceodev.tech](mailto:hello@viceodev.tech), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1), [Twitter](https://twitter.com/viceodev),Phone: (234)-0-8142077283.
+- 📲How to reach me: [hello@viceodev.tech](mailto:hello@viceodev.tech), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1), [Twitter](https://twitter.com/viceodev),Phone: (+234)-8142077283.
 
 
 ## More About Me
