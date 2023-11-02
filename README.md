@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-My name is Okonkwo Victor fondly known as 😁**Viceodev**. I am an engineer with a mission to add value and give substantial solutions to the world through my skills. I enjoy creating elegant designs, systems, and architectures for my clients and teams. I have a strong track record of working effectively with others to deliver desired outcomes.
+"Hello! I'm Victor, a creative Backend web developer who thrives on challenges (definitely not unnecessary tight deadlines 😉). My passion lies in crafting progressive and scalable systems for businesses and organizations using appropriate technologies like PHP, Laravel, Javascript, Typescript and Express. I've walked a tough road in my career, and I truly empathize with the struggles businesses and startups face. That's why I devote significant time to creating solutions that streamline processes and enhance operations. Let's work together to make your digital dreams a reality!
 
-- 💻 As a Full Stack Developer, I am equipped with the necessary skills to bring value to any project. These skills include; PHP, JavaScript, HTML / CSS / SASS, Git Version Control, API Integration and 😊Good Communication skills.
-- 👨‍ 💻I'm also skilled in Frameworks like ; Bootstrap, Laravel, React Js, and WordPress.
-- 💻 As a Cybersecurity Enthusiast, I love learning, growing, and stretching systems to the limit.
-- 🙋‍♂️ I'm a keen and fast learner, ready to adapt to systems that bring value. 
-- 📲How to reach me: [hello@viceodev.tech](mailto:hello@viceodev.tech), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/message/XEC2LS6Z2IUUI1), [Twitter](https://twitter.com/viceodev),Phone: (+234)-8142077283.
+📲How to reach me: [hello@victorokonkwo.tech](mailto:hello@victorokonkwo.tech), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/2347025263275), [Twitter](https://twitter.com/viceodev),Phone: (+234)-7025263275.
 
 
 ## More About Me
