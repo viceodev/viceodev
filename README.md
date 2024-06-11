@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-"Hello! I'm Victor, a creative Backend web developer who thrives on challenges (definitely not unnecessary tight deadlines 😉). My passion lies in crafting progressive and scalable systems for businesses and organizations using appropriate technologies like PHP, Laravel, Javascript, Typescript and Express. I've walked a tough road in my career, and I truly empathize with the struggles businesses and startups face. That's why I devote significant time to creating solutions that streamline processes and enhance operations. Let's work together to make your digital dreams a reality!
+# About Me
+Hi! I'm Victor Okonkwo, a recent graduate of Mechatronics Engineering from a technical university in Nigeria ( Federal University of Technology Owerri - FUTO ). Creating value and solving a "need" is the essence of every working system / research project. As a backend developer, I understand this and strive to give my best to any project I am a part of while complimenting this effort with fresh ideas that makes any team I am part of more effective.
 
-📲How to reach me: [hello@victorokonkwo.tech](mailto:hello@victorokonkwo.tech), [LinkedIn](https://www.linkedin.com/in/viceodev/), [WhatsApp](https://wa.me/2347025263275), [Twitter](https://twitter.com/viceodev),Phone: (+234)-7025263275.
+I am open to Backend Developer opportunities in Europe, particularly in IoT or AI. Let's connect!
 
 
 ## More About Me
