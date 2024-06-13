@@ -36,7 +36,7 @@ At my current level, I have played around with a number of technologies but here
 
 ### Backend Development
 <div display="flex" direction="row">
-  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>&nbsp;
   <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
 </div>
 
