@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 A big thank you for checking in.👍
 
-# About Me
+## About Me
 Hi! I'm Victor Okonkwo, a recent graduate of Mechatronics Engineering from a technical university in Nigeria ( Federal University of Technology Owerri - FUTO ). Creating value and solving a "need" is the essence of every working system / research project. As a backend developer, I understand this and strive to give my best to any project I am a part of while complimenting this effort with fresh ideas that makes any team I am part of more effective.
 
 I am open to Backend Developer opportunities in Europe, particularly in IoT or AI. Let's connect!
 
-# My Interests
+## My Interests
 I am very much interested in a number of things both as a hobby and as a long term committment. The following list shows the most important to me;
 
 - Internet of Things (IoT)
@@ -31,13 +31,13 @@ I am very much interested in a number of things both as a hobby and as a long te
 - Backend Software Engineering (BE)
 - Open Source
 
-# Top Technologies I Use
+## Top Technologies I Use
 At my current level, I have played around with a number of technologies but here are my top tools which i am very comfortable using.
 
-## Backend Development
+### Backend Development
 <div display="flex" direction="row">
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
+  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
 </div>
 
 
