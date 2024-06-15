@@ -20,7 +20,9 @@ A big thank you for checking in.👍
 ## About Me
 Hi! I'm Victor Okonkwo, a recent graduate of Mechatronics Engineering from a technical university in Nigeria ( Federal University of Technology Owerri - FUTO ). Creating value and solving a "need" is the essence of every working system / research project. As a backend developer, I understand this and strive to give my best to any project I am a part of while complimenting this effort with fresh ideas that makes any team I am part of more effective.
 
-I am open to `Backend Developer` opportunities in `Europe`, particularly in `IoT` or `AI`. Let's connect!
+I am open to `Backend Developer` openings. Let's connect!
+
+### Here is my [portfolio](https://github.com/viceode/Ebube Okonkwo CV.pdf)
 
 ## My Interests
 I am very much interested in a number of things both as a hobby and as a long term commitment. The following list shows the most important to me;
