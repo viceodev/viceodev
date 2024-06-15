@@ -22,7 +22,7 @@ Hi! I'm Victor Okonkwo, a recent graduate of Mechatronics Engineering from a tec
 
 I am open to `Backend Developer` openings. Let's connect!
 
-### Here is my [portfolio](https://github.com/viceode/Ebube Okonkwo CV.pdf)
+#### Here is my [portfolio](https://github.com/viceodev/viceodev/blob/a050c3616272b27b64c9ee9241515cdc9f12cfe5/Ebube%20Okonkwo%20CV.pdf)
 
 ## My Interests
 I am very much interested in a number of things both as a hobby and as a long term commitment. The following list shows the most important to me;
