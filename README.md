@@ -18,27 +18,27 @@ Here are some ideas to get you started:
 A big thank you for checking in.👍
 
 ## About Me
-Hi! I'm Victor Okonkwo, a passionate researcher with a Mechatronics Engineering background currently growing as a backend engineer. 
+Hi! I'm Ebube Okonkwo, a passionate researcher with a Mechatronics Engineering background currently growing as a backend engineer. 
 
-I had a dream or rather **a lot** of dreams☺ growing up as a young teenager. I envisioned myself building great systems in the future and being one of the great men who changed the world. This motivated me as a young high school student to learn about technology. 
+I had a dream or rather **a lot** of dreams☺ growing up as a young teenager. I envisioned myself building great systems in the future and being one of the great men who positively changed the world. This motivated me as a young high school student to learn about technology. 
 
-This career that started as a move towards a dream has evolved to be a personal mission to join forces with great institutions to bring life changing solutions to the world. In recent times, my personal slogan has been life does not have to be hard and really it does not. I believe second to moral excellence, technology can and has paved the way towards a better and easier future. A future where dreams and visions easily come to life; and flourish.
+The career that started as a move towards a dream has evolved to be a personal mission to join forces with great institutions to bring life changing solutions to the world. In recent times, my personal slogan has been **life does not have to be hard** and really it does not. I believe second to moral excellence, technology can and has paved the way towards a better and easier future. A future where dreams and visions easily come to life; and flourish.
 
 I am currently open to `Backend Developer` roles. Got an offer? Let's connect!
 
 #### Here is my [Curriculum vitae (CV)](https://github.com/viceodev/viceodev/blob/44116fd876ea04d408c736cc0403577735305b93/Ebube%20Okonkwo%20CV.pdf).
 
 ## My Interests
-I am very much interested in a number of things both as a hobby and as a long term commitment. The following list shows the most important to me;
+As a technology enthusiast, I am fascinated by a lot of technical topics and domains but the following list shows my primary interests;
 
+- Backend Software Engineering (BE)
 - Internet of Things (IoT)
 - Artificial Intelligence (AI)
 - Scientific Research
-- Backend Software Engineering (BE)
 - Open Source
 
 ## Top Technologies I Use
-At my current level, I have played around with a number of technologies but here are my top tools which I am very comfortable using.
+Curiosity tempts me often to play around with a lot of different tools but here are the major tools I use frequently.
 
 ### Backend Development (BE)
 <div display="flex" direction="row">
