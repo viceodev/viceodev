@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 A big thank you for checking in.👍
 
 ## About Me
-Hi! I'm Victor Okonkwo, a recent graduate of Mechatronics Engineering from a technical university in Nigeria ( Federal University of Technology Owerri - FUTO ). Creating value and solving a "need" is the essence of every working system / research project. As a backend developer, I understand this and strive to give my best to any project I am a part of while complimenting this effort with fresh ideas that makes any team I am part of more effective.
+Hi! I'm Victor Okonkwo, a passionate researcher with a Mechatronics Engineering background currently growing as a backend engineer. 
 
-I am open to `Backend Developer` openings. Let's connect!
+I had a dream or rather **a lot** of dreams☺ growing up as a young teenager. I envisioned myself building great systems in the future and being one of the great men who changed the world. This motivated me as a young high school student to learn about technology. 
+
+This career that started as a move towards a dream has evolved to be a personal mission to join forces with great institutions to bring life changing solutions to the world. In recent times, my personal slogan has been life does not have to be hard and really it does not. I believe second to moral excellence, technology can and has paved the way towards a better and easier future. A future where dreams and visions easily come to life; and flourish.
+
+I am currently open to `Backend Developer` roles. Got an offer? Let's connect!
 
 #### Here is my [Curriculum vitae (CV)](https://github.com/viceodev/viceodev/blob/44116fd876ea04d408c736cc0403577735305b93/Ebube%20Okonkwo%20CV.pdf).
 
