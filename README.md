@@ -26,7 +26,7 @@ The career that started as a move towards a dream has evolved to be a personal m
 
 I am currently open to working with `vision-driven` clients to bring their ideas to life. Got an idea? Let's connect!
 
-#### Here is my [Curriculum vitae (CV)](https://github.com/viceodev/viceodev/blob/44116fd876ea04d408c736cc0403577735305b93/Ebube%20Okonkwo%20CV.pdf).
+#### Here is my [Curriculum vitae (CV)](https://ebube-okonkwo.netlify.app/Ebube%20Okonkwo%20CV.pdf).
 
 ## My Interests
 As a technology enthusiast, I am fascinated by a lot of technical topics and domains but the following list shows my primary interests;
