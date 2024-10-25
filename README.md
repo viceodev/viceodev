@@ -22,7 +22,7 @@ How would I describe myself ?
 
 I am a passionate backend developer with innovation at the fore front of all my endeavours. I am instinctively a problem solver who thinks solution first. I initially began my technical journey a solo engineer which I loved at the time but have evolved to understand the power of collaboration and community.
 
-I believe in a better tomorrow and I work hard to reach it; constantly growing a step at a time. As a continous learner, I love to work and collaborate with individuals from varied backgrounds because this gives me the opportunity to learn new ideas. I am not the best at having fun. However, I add a unique spark to every team I am part of.
+I believe in a better tomorrow and I work hard to reach it; constantly growing a step at a time. As a continuous  learner, I love to work and collaborate with individuals from varied backgrounds because this gives me the opportunity to learn new ideas. I am not the best at having fun. However, I add a unique spark to every team I am part of.
 
 I am open to Junior Backend Developer roles  (on-site / hybrid)
 
