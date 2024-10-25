@@ -18,34 +18,32 @@ Here are some ideas to get you started:
 A big thank you for checking in.👍
 
 ## About Me
-Hi! I'm Ebube Okonkwo, a passionate researcher with a Mechatronics Engineering background currently growing as a Full-stack engineer. 
+How would I describe myself ?
 
-I had a dream or rather **a lot** of dreams☺ growing up as a young teenager. I envisioned myself building great systems in the future and being one of the great men who positively changed the world. This motivated me as a young high school student to learn about technology. 
+I am a passionate backend developer with innovation at the fore front of all my endeavours. I am instinctively a problem solver who thinks solution first. I initially began my technical journey a solo engineer which I loved at the time but have evolved to understand the power of collaboration and community.
 
-The career that started as a move towards a dream has evolved to be a personal mission to join forces with great institutions to bring life changing solutions to the world. In recent times, my personal slogan has been **life does not have to be hard** and really it does not. I believe second to moral excellence, technology can and has paved the way towards a better and easier future. A future where dreams and visions easily come to life; and flourish.
+I believe in a better tomorrow and I work hard to reach it; constantly growing a step at a time. As a continous learner, I love to work and collaborate with individuals from varied backgrounds because this gives me the opportunity to learn new ideas. I am not the best at having fun. However, I add a unique spark to every team I am part of.
 
-I am currently open to working with `vision-driven` clients to bring their ideas to life. Got an idea? Let's connect!
+I am open to Junior Backend Developer roles  (on-site / hybrid)
 
 #### Here is my [Curriculum vitae (CV)](https://ebube-okonkwo.netlify.app/Ebube%20Okonkwo%20CV.pdf).
 
 ## My Interests
 As a technology enthusiast, I am fascinated by a lot of technical topics and domains but the following list shows my primary interests;
 
-- Full-stack Software Engineering
+- Backend Development (BE)
 - Internet of Things (IoT)
 - Artificial Intelligence (AI)
 - Scientific Research
 - Open Source
 
 ## Top Technologies I Use
-Curiosity tempts me often to play around with a lot of different tools but here are the major tools I use frequently.
+I am often found tinkering with different tools out of curiosity but here are my major work tools.
 
-### Full-stack Software Engineering
+### Backend Development
 <div display="flex" direction="row">
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>&nbsp;
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
-  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 ### Internet of Things (IoT)
