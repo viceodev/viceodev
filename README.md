@@ -25,7 +25,7 @@ I am a passionate backend developer with innovation at the fore front of all my 
 I believe in a better tomorrow and I work hard to reach it; constantly growing a step at a time. As a continuous  learner, I love to work and collaborate with individuals from varied backgrounds because this gives me the opportunity to learn new ideas. I am not the best at having fun. However, I add a unique spark to every team I am part of.
 
 I am open to Junior Backend Developer roles  (on-site / hybrid)
-<!--#### Here is my [Curriculum vitae (CV)](https://ebube-okonkwo.netlify.app/Ebube%20Okonkwo%20CV.pdf). -->
+#### Here is my [Curriculum vitae (CV)](https://github.com/viceodev/viceodev/blob/be9faafe660abbb7db29f6eb38a6b08393148e53/Oluebube%20V.%20Okonkwo%20CV.pdf).
 
 ## My Interests
 As a technology enthusiast, I am fascinated by a lot of technical topics and domains but the following list shows my primary interests;
