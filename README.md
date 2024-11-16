@@ -20,17 +20,17 @@ A big thank you for checking in.👍
 ## About Me
 How would I describe myself ?
 
-I am a passionate backend developer with innovation at the fore front of all my endeavours. I am instinctively a problem solver who thinks solution first. I initially began my technical journey a solo engineer which I loved at the time but have evolved to understand the power of collaboration and community.
+I am a passionate web developer with innovation at the fore front of all my endeavours. I am instinctively a problem solver who thinks solution first. I initially began my technical journey a solo engineer which I loved at the time but have evolved to understand the power of collaboration and community.
 
 I believe in a better tomorrow and I work hard to reach it; constantly growing a step at a time. As a continuous  learner, I love to work and collaborate with individuals from varied backgrounds because this gives me the opportunity to learn new ideas. I am not the best at having fun. However, I add a unique spark to every team I am part of.
 
-I am open to Junior Backend Developer roles  (on-site / hybrid)
-#### Here is my [Curriculum vitae (CV)](https://github.com/viceodev/viceodev/blob/be9faafe660abbb7db29f6eb38a6b08393148e53/Oluebube%20V.%20Okonkwo%20CV.pdf).
+I am open to Web Developer roles  (on-site / hybrid)
+#### Here is my [Curriculum vitae (CV)](https://viceodev.com.ng/assets/victor-okonkwo-cv.pdf).
 
 ## My Interests
 As a technology enthusiast, I am fascinated by a lot of technical topics and domains but the following list shows my primary interests;
 
-- Backend Development (BE)
+- Web Development (BE)
 - Internet of Things (IoT)
 - Artificial Intelligence (AI)
 - Scientific Research
@@ -39,7 +39,7 @@ As a technology enthusiast, I am fascinated by a lot of technical topics and dom
 ## Top Technologies I Use
 I am often found tinkering with different tools out of curiosity but here are my major work tools.
 
-### Backend Development
+### Web Development
 <div display="flex" direction="row">
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>&nbsp;
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
@@ -54,7 +54,7 @@ I am often found tinkering with different tools out of curiosity but here are my
 
 
 ## Contact me
-Got something amazing to talk about. I am easily reachable on [LinkedIn](https://linkedin.com/in/viceodev) and via [email](mailto:viceodev@gmail.com). 
+Got something amazing to talk about. I am easily reachable on [LinkedIn](https://linkedin.com/in/viceodev) and via [email](mailto:work@viceodev.com.ng). 
 
 
 ## More About Me
